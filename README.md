@@ -6,7 +6,7 @@ I focus on building reliable, well-structured systems—ranging from enterprise-
 
 ---
 
-### 🛠️ Core Tech Stack
+### Core Tech Stack
 
 - **Backend & Architecture:** C#, ASP.NET Core (.NET 10 / 8), Entity Framework Core, RESTful APIs, Clean Architecture, Repository Pattern, JWT Authentication & Role-Based Access Control.
 - **Frontend:** React, TypeScript, JavaScript, Vite, Tailwind CSS.
@@ -16,7 +16,7 @@ I focus on building reliable, well-structured systems—ranging from enterprise-
 
 ---
 
-### 🚀 Selected Projects
+### Selected Projects
 
 #### [Trace](https://github.com/TheDev20/Trace) — AI-Assisted Course Tutoring Platform
 - Engineered an academic tutoring platform using **ASP.NET Core (.NET 10)** and **React 19 / TypeScript**, deployed to **Azure**.
@@ -31,15 +31,10 @@ I focus on building reliable, well-structured systems—ranging from enterprise-
 - Production-ready booking and auditorium scheduling API built with ASP.NET Core and EF Core for a React/Vite client.
 - Implements concurrency controls on seat reservations to eliminate double-booking, JWT authentication, and automated data seeding.
 
-#### [Forex Virtual Simulator](https://github.com/TheDev20/Forex-Virtual-Sim)
-- Virtual currency trading environment processing real-time market data feeds for testing manual and bot-driven trading strategies.
-
-#### [SIC/XE Assembler](https://github.com/TheDev20/SIC-XE-Assembler)
-- Two-pass assembler for the SIC/XE architecture handling symbol tables, address resolution, opcode translation, and object program generation.
 
 ---
 
-### 📬 Connect With Me
+### Connect With Me
 
 - **Portfolio / Resume:** [karimemadresume.netlify.app](https://karimemadresume.netlify.app/)
 - **Email:** [karim2004sas@gmail.com](mailto:karim2004sas@gmail.com)
