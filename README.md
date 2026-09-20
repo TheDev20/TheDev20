@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheDev20/TheDev20/main/header.svg" width="100%" alt="Karim Emad Eldin - Terminal Header" />
+</p>
+
 # Karim Emad Eldin
 
 Full-Stack Software Engineer specializing in backend architectures with **C# / ASP.NET Core** and modern frontends with **React & TypeScript**.
@@ -30,7 +34,6 @@ I focus on building reliable, well-structured systems—ranging from enterprise-
 #### [Cinema Ticket Booking System API](https://github.com/TheDev20/CinemaTicketBookingSystemAPI)
 - Production-ready booking and auditorium scheduling API built with ASP.NET Core and EF Core for a React/Vite client.
 - Implements concurrency controls on seat reservations to eliminate double-booking, JWT authentication, and automated data seeding.
-
 
 ---
 
