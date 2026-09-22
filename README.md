@@ -39,5 +39,5 @@ I focus on building reliable, well-structured systems—ranging from enterprise-
 
 ### Connect With Me
 
-- **Portfolio / Resume:** 
+- **Portfolio / Resume:** https://karimemadresumes.netlify.app/
 - **Email:** [karim2004sas@gmail.com](mailto:karim2004sas@gmail.com)
